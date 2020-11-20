@@ -1,11 +1,29 @@
 # Algorithms
 
-bst.cpp - Binary Search Tree
+bridges.cpp - Поиск мостов
 
-dsu.cpp - Disjoint Set Union
+bst.cpp - Двоичное дерево поиска
 
-flow.cpp - Flow
+centroids.cpp - Центроиды
 
-kthsubstr.cpp - Suffix automaton
+convex - Выпуклая оболочка (Грэхем)
+
+dsu.cpp - СНМ
+
+flow.cpp - Максимальный поток
+
+floyd.cpp - Алгоритм Флойда
+
+kthsubstr.cpp - Суффиксный массив
 
 minonpath.cpp - LCA
+
+prefix-function.cpp - Префикс-функция
+
+skiplist.cpp - Skiplist
+
+sparse.cpp - Разреженная таблица
+
+z-function.cpp - Z-функция
+
+
