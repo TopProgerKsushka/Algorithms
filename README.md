@@ -10,6 +10,8 @@ convex - Выпуклая оболочка (Грэхем)
 
 dsu.cpp - СНМ
 
+fabro.cpp - sqrt декомпозиция
+
 flow.cpp - Максимальный поток
 
 floyd.cpp - Алгоритм Флойда
@@ -20,9 +22,13 @@ minonpath.cpp - LCA
 
 prefix-function.cpp - Префикс-функция
 
+segment-tree - Дерево отрезков
+
 skiplist.cpp - Skiplist
 
 sparse.cpp - Разреженная таблица
+
+substr.cpp - Хеширование
 
 z-function.cpp - Z-функция
 
